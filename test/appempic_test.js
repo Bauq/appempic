@@ -10,6 +10,6 @@ describe('appempic', function () {
   });
 
 	it('should be Uribe', function () {
-	    appempic.getLastName().should.equal('Uribe');
+	    appempic.getLastName().should.equal('Ure');
 	  });
 });
